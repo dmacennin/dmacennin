@@ -9,7 +9,7 @@ I specialize in SEM, Paid Social, and building AI-powered systems that scale cam
 
 - **PPC & Paid Media**: Google Ads · Meta Ads · LinkedIn Ads · TikTok Ads · Pinterest
 - **Strategy & Optimization**: SEM · Conversion Rate Optimization (CRO) · A/B Testing · Budget Management
-- **AI & Automation**: Claude AI · Optimizely Opal · Custom AI keyword systems · Automated reporting
+- **AI & Automation**: Claude AI · Optimizely Opal · Custom AI keyword systems · Agentic AI Workflows· Automated reporting
 - **Analytics & Reporting**: GA4 · Google Tag Manager · Looker Studio · Agency Analytics ·Service Titan
 - **Marketing Stack**: HubSpot · Klaviyo · Shopify · WordPress · Zapier · ClickUp
 
