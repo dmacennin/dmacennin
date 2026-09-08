@@ -2,8 +2,8 @@
 
 🚀**Performance Marketing | PPC Strategy | AI Systems for Marketing**
 
-I help SMBs and multi-account portfolios turn ad spend into predictable growth. Certified Digital Marketing Professional with 6+ years. Managed ~$2M annual budgets. Worked with 400+ brands in SaaS, e-commerce, logistics, manufacturing, home services, and other B2B sectors. 
-I specialize in SEM, Paid Social, and building AI-powered systems that scale campaign performance, productivity and operational efficiency.
+I help SMBs and multi-account portfolios turn ad spend into predictable growth. Certified Digital Marketing Professional with 6+ years managing ~$2M annual budgets across 400+ brands. I specialize in SEM, Paid Social, and **building AI-powered systems** that improve targeting, reduce wasted spend, and scale campaign performance and operational efficiency.
+
 
 ## 🔧 Core Expertise
 
