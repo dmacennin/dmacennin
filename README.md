@@ -17,8 +17,11 @@ I help SMBs and multi-account portfolios turn ad spend into predictable growth. 
 
 - **40.7% YoY** portfolio MQL conversion rate improvement (6.91% → 9.72%) across 42 accounts in 60 days
 - **11X–20X ROAS** delivered and sustained across multiple B2B campaigns
+- Improved Google Ads efficiency for B2B: increased sales conversions by 30% QoQ while reducing overall CPA by 24% ($67 → $51) and NC-CAC  by 24% ($139 → $107) on flat monthly media spend.
+- Scaled e-commerce account revenue by 4–5X YoY ($5–6K to >$25K/month) on flat ad monthly spend, increased YoY ROAS from ~4X to over 18X, and cutting blended CAC by 44% ($50 → $28), while increasing marketing ROI from ~168% to >1,120%.
+- 130% MoM increase in MQLs while cutting CPA by 30% ($12.76 → $8.99) for B2B industrial service client, delivered a total 516 MQLs at ~35% MQL-to-SQL rate, and reduced cost-per-SQL by ~30% MoM. 
 - **>30% reduction** in wasted ad spend via AI-powered negative keyword systems
-- **2,000+** end-to-end campaigns executed across B2B and B2C verticals
+- **2,800+** end-to-end campaigns executed across B2B and B2C verticals
 - **300% YoY** new business growth for logistics clients while maintaining 40% MoM MQL growth
 
 ## 🎓 Certifications
