@@ -12,6 +12,7 @@ I help SMBs and multi-account portfolios turn ad spend into predictable growth. 
 - **AI & Automation**: Claude AI · Optimizely Opal · Custom AI keyword systems · Agentic AI Workflows· Automated reporting
 - **Analytics & Reporting**: GA4 · Google Tag Manager · Looker Studio · Agency Analytics ·Service Titan
 - **Marketing Stack**: HubSpot · Klaviyo · Shopify · WordPress · Zapier · ClickUp
+- **Creative Suite**: Capcut •Premiere Pro •Davinci Resolve •ElevenLabs •Higgsfield AI
 
 ## 📈 Key Results
 
