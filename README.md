@@ -8,7 +8,7 @@ I help SMBs and multi-account portfolios turn ad spend into predictable growth. 
 ## 🔧 Core Expertise
 
 - **PPC & Paid Media**: Google Ads · Meta Ads · LinkedIn Ads · TikTok Ads · Pinterest
-- **Strategy & Optimization**: SEM · Conversion Rate Optimization (CRO) · A/B Testing · Budget Management
+- **Strategy & Optimization**: SEM · Conversion Rate Optimization (CRO) · A/B Testing · Incremental Testing · Budget Management
 - **AI & Automation**: Claude AI · Optimizely Opal · Custom AI keyword systems · Agentic AI Workflows· Automated reporting
 - **Analytics & Reporting**: GA4 · Google Tag Manager · Looker Studio · Agency Analytics ·Service Titan
 - **Marketing Stack**: HubSpot · Klaviyo · Shopify · WordPress · Zapier · ClickUp
